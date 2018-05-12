@@ -1,0 +1,27 @@
+_repo: Child-life-in-Art_25268
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25268-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Hurll, Estelle M. (Estelle May)
+    alias: Hurll, Estelle May
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '4845'
+    url: http://www.gutenberg.org/2009/agents/4845
+description: ''
+gutenberg_issued: '2008-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Children in art'
+title: Child-life in Art
+url: http://www.gutenberg.org/ebooks/25268
